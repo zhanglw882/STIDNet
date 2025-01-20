@@ -1,2 +1,2 @@
 ## Introduction
-The code and related results of the paper [STIDNet Spatio temporal integrated detection network for infrared dim and small target]  will be published here.
+The code and related results of the paper [STIDNet: Spatiotemporally Integrated Detection Network for Infrared Dim and Small Targets]  will be published here.
